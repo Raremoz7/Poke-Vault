@@ -30,6 +30,11 @@ export function GameDetail() {
   const game: Game | RomHack | undefined =
     games.find((g) => g.id === id) ?? hacks.find((h) => h.id === id)
 
+  // open every game page scrolled to the top, even when coming from a scrolled list
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [id])
+
   const coverSrc = game ? resolveCover(game.coverUrl) : ''
   const hasCover = coverSrc !== ''
   const [cover, setCover] = useState<CoverState>(hasCover ? 'loading' : 'error')
