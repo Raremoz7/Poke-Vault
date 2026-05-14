@@ -1,0 +1,764 @@
+[
+  {
+    "id": "red-blue",
+    "title": "Pokémon Red & Blue",
+    "console": "Game Boy",
+    "generation": 1,
+    "year": 1996,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/8/80/Red_EN_boxart.png/250px-Red_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/5/5a/Blue_EN_boxart.png/250px-Blue_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/6/6b/RG_prerelease_flyer_original_release_date.jpg/200px-RG_prerelease_flyer_original_release_date.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/8/8a/Pokemon_conceptart.jpg/200px-Pokemon_conceptart.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/c/c9/CoroCoro_Nov1996_P20_P21.jpg/200px-CoroCoro_Nov1996_P20_P21.jpg"
+    ]
+  },
+  {
+    "id": "yellow",
+    "title": "Pokémon Yellow",
+    "console": "Game Boy",
+    "generation": 1,
+    "year": 1998,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/9/95/Yellow_EN_boxart.png/250px-Yellow_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/e/e4/Pokemon_Yellow_cartridge.png/200px-Pokemon_Yellow_cartridge.png"
+    ]
+  },
+  {
+    "id": "gold-silver",
+    "title": "Pokémon Gold & Silver",
+    "console": "Game Boy Color",
+    "generation": 2,
+    "year": 1999,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/c/c7/Gold_EN_boxart.png/250px-Gold_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Silver_EN_boxart.png/250px-Silver_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/5/54/Gold_JP_boxart.png/200px-Gold_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/4/49/Silver_JP_boxart.png/200px-Silver_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/5/5f/PocketMonstersGumEun.jpg/200px-PocketMonstersGumEun.jpg"
+    ]
+  },
+  {
+    "id": "crystal",
+    "title": "Pokémon Crystal",
+    "console": "Game Boy Color",
+    "generation": 2,
+    "year": 2000,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/60/Crystal_EN_boxart.png/250px-Crystal_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/6/61/Pokemoncrystal.logo.png/200px-Pokemoncrystal.logo.png"
+    ]
+  },
+  {
+    "id": "ruby-sapphire",
+    "title": "Pokémon Ruby & Sapphire",
+    "console": "Game Boy Advance",
+    "generation": 3,
+    "year": 2002,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/Ruby_EN_boxart.png/250px-Ruby_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/6/62/Sapphire_EN_boxart.png/250px-Sapphire_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/a/a2/Ruby_JP_boxart.png/200px-Ruby_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/3/3c/Sapphire_JP_boxart.png/200px-Sapphire_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Ruby_Beta_EN_boxart.jpg/230px-Ruby_Beta_EN_boxart.jpg"
+    ]
+  },
+  {
+    "id": "emerald",
+    "title": "Pokémon Emerald",
+    "console": "Game Boy Advance",
+    "generation": 3,
+    "year": 2004,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/65/Emerald_EN_boxart.jpg/250px-Emerald_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/c/c2/Emerald_JP_boxart.png/250px-Emerald_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "firered-leafgreen",
+    "title": "Pokémon FireRed & LeafGreen",
+    "console": "Game Boy Advance",
+    "generation": 3,
+    "year": 2004,
+    "type": "Remake",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/4/43/FireRed_EN_boxart.png/250px-FireRed_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/d/d7/LeafGreen_EN_boxart.png/250px-LeafGreen_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/d/d2/FireRed_JP_boxart.png/200px-FireRed_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/9/99/LeafGreen_JP_boxart.png/200px-LeafGreen_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "mystery-dungeon-red-rescue-team",
+    "title": "Mystery Dungeon: Red Rescue Team",
+    "console": "Game Boy Advance",
+    "generation": 3,
+    "year": 2005,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/MD_Red_EN_boxart.jpg/250px-MD_Red_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/8/8f/MD_Blue_EN_boxart.jpg/250px-MD_Blue_EN_boxart.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/7/7e/MD_Red_JP_boxart.png/200px-MD_Red_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/1/1b/MD_Blue_JP_boxart.png/200px-MD_Blue_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "diamond-pearl",
+    "title": "Pokémon Diamond & Pearl",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2006,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/69/Diamond_EN_boxart.jpg/250px-Diamond_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA"
+  },
+  {
+    "id": "platinum",
+    "title": "Pokémon Platinum",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2008,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/8/83/Platinum_EN_boxart.png/250px-Platinum_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/4/45/Platinum_JP_boxart.png/250px-Platinum_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "heartgold-soulsilver",
+    "title": "Pokémon HeartGold & SoulSilver",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2009,
+    "type": "Remake",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/6e/HeartGold_EN_boxart.jpg/250px-HeartGold_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/5/5c/SoulSilver_EN_boxart.jpg/250px-SoulSilver_EN_boxart.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/8/89/HeartGold_JP_boxart.jpg/200px-HeartGold_JP_boxart.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/e/e2/SoulSilver_JP_boxart.jpg/200px-SoulSilver_JP_boxart.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/8/8b/Teddiursa_and_Gold.png/200px-Teddiursa_and_Gold.png"
+    ]
+  },
+  {
+    "id": "black-white",
+    "title": "Pokémon Black & White",
+    "console": "Nintendo DS",
+    "generation": 5,
+    "year": 2010,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/d/dc/Black_EN_boxart.png/250px-Black_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/0/08/White_EN_boxart.png/250px-White_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/2/2e/Black_JP_boxart.png/200px-Black_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/0/0d/White_JP_boxart.png/200px-White_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/6/68/BWFamitsu.jpg/200px-BWFamitsu.jpg"
+    ]
+  },
+  {
+    "id": "black2-white2",
+    "title": "Pokémon Black 2 & White 2",
+    "console": "Nintendo DS",
+    "generation": 5,
+    "year": 2012,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/34/Black_2_EN_boxart.png/250px-Black_2_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/1/14/White_2_EN_boxart.png/250px-White_2_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/8/8e/Black_2_JP_boxart.png/200px-Black_2_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/e/ef/White_2_JP_boxart.png/200px-White_2_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "mystery-dungeon-explorers-time-darkness",
+    "title": "Mystery Dungeon: Explorers of Time & Darkness",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2007,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/b/b1/MD_Time_EN_boxart.jpg/250px-MD_Time_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA"
+  },
+  {
+    "id": "mystery-dungeon-explorers-sky",
+    "title": "Mystery Dungeon: Explorers of Sky",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2009,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/MD_Sky_EN_boxart.jpg/250px-MD_Sky_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/a/a8/MD_Sky_JP_boxart.jpg/200px-MD_Sky_JP_boxart.jpg",
+      "https://archives.bulbagarden.net/media/upload/thumb/8/8f/Wigglytuff_and_Chatot.png/300px-Wigglytuff_and_Chatot.png"
+    ]
+  },
+  {
+    "id": "conquest",
+    "title": "Pokémon Conquest",
+    "console": "Nintendo DS",
+    "generation": 5,
+    "year": 2012,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/31/Conquest_EN_boxart.jpg/250px-Conquest_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/9/99/Conquest_JP_boxart.png/200px-Conquest_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "ranger",
+    "title": "Pokémon Ranger",
+    "console": "Nintendo DS",
+    "generation": 3,
+    "year": 2006,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/2/21/Ranger_EN_boxart.jpg/250px-Ranger_EN_boxart.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA"
+  },
+  {
+    "id": "ranger-shadows-of-almia",
+    "title": "Pokémon Ranger: Shadows of Almia",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2008,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/c/ce/Ranger_SoA_EN_boxart.png/250px-Ranger_SoA_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/9/9b/Ranger_SoA_JP_boxart.jpg/200px-Ranger_SoA_JP_boxart.jpg"
+    ]
+  },
+  {
+    "id": "ranger-guardian-signs",
+    "title": "Pokémon Ranger: Guardian Signs",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2010,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Ranger_GS_EN_boxart.png/250px-Ranger_GS_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/a/ac/Ranger_GS_JP_boxart.jpg/200px-Ranger_GS_JP_boxart.jpg"
+    ]
+  },
+  {
+    "id": "x-y",
+    "title": "Pokémon X & Y",
+    "console": "Nintendo 3DS",
+    "generation": 6,
+    "year": 2013,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/2/27/X_EN_boxart.png/250px-X_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://cdromance.org",
+        "source": "CDRomance"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/4/41/Y_EN_boxart.png/250px-Y_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/0/09/X_JP_boxart.png/200px-X_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/0/04/Y_JP_boxart.png/200px-Y_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "omega-ruby-alpha-sapphire",
+    "title": "Pokémon Omega Ruby & Alpha Sapphire",
+    "console": "Nintendo 3DS",
+    "generation": 6,
+    "year": 2014,
+    "type": "Remake",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/Omega_Ruby_EN_boxart.png/250px-Omega_Ruby_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://cdromance.org",
+        "source": "CDRomance"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/f/f2/Alpha_Sapphire_EN_boxart.png/250px-Alpha_Sapphire_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/e/e6/Omega_Ruby_JP_boxart.png/200px-Omega_Ruby_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/e/eb/Alpha_Sapphire_JP_boxart.png/200px-Alpha_Sapphire_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/5/59/ORAS_Delta_Episode.png/250px-ORAS_Delta_Episode.png"
+    ]
+  },
+  {
+    "id": "sun-moon",
+    "title": "Pokémon Sun & Moon",
+    "console": "Nintendo 3DS",
+    "generation": 7,
+    "year": 2016,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/0/06/Sun_EN_boxart.png/250px-Sun_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://cdromance.org",
+        "source": "CDRomance"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/3/38/Moon_EN_boxart.png/250px-Moon_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/6/65/Sun_JP_boxart.png/200px-Sun_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/c/c5/Moon_JP_boxart.png/200px-Moon_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "ultra-sun-ultra-moon",
+    "title": "Pokémon Ultra Sun & Ultra Moon",
+    "console": "Nintendo 3DS",
+    "generation": 7,
+    "year": 2017,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/d/de/Ultra_Sun_EN_boxart.png/250px-Ultra_Sun_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://cdromance.org",
+        "source": "CDRomance"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/8/86/Ultra_Moon_EN_boxart.png/250px-Ultra_Moon_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/5/5b/Ultra_Sun_JP_boxart.png/200px-Ultra_Sun_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/5/51/Ultra_Moon_JP_boxart.png/200px-Ultra_Moon_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "mystery-dungeon-gates-to-infinity",
+    "title": "Mystery Dungeon: Gates to Infinity",
+    "console": "Nintendo 3DS",
+    "generation": 6,
+    "year": 2012,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/8/8e/MD_GTI_EN_boxart.png/250px-MD_GTI_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://cdromance.org",
+        "source": "CDRomance"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/1/18/MD_GTI_JP_boxart.png/200px-MD_GTI_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/9/99/Localwireless.png/200px-Localwireless.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/3/3f/Teamattack.png/250px-Teamattack.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/8/80/Pok%C3%A9_Forest_art_PMDGTI.png/250px-Pok%C3%A9_Forest_art_PMDGTI.png"
+    ]
+  },
+  {
+    "id": "super-mystery-dungeon",
+    "title": "Super Mystery Dungeon",
+    "console": "Nintendo 3DS",
+    "generation": 6,
+    "year": 2015,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/2/22/Super_Mystery_Dungeon_EN_boxart.png/250px-Super_Mystery_Dungeon_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://cdromance.org",
+        "source": "CDRomance"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/0/09/Super_Mystery_Dungeon_JP_boxart.png/200px-Super_Mystery_Dungeon_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/3/35/Alliance_PSMD.png/250px-Alliance_PSMD.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/5/59/Mega_Evolution_PSMD.png/250px-Mega_Evolution_PSMD.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/4/4c/Pokemon_Selection_Super_Mystery_Dungeon.png/250px-Pokemon_Selection_Super_Mystery_Dungeon.png"
+    ]
+  },
+  {
+    "id": "lets-go-pikachu-eevee",
+    "title": "Pokémon: Let's Go, Pikachu! & Eevee!",
+    "console": "Nintendo Switch",
+    "generation": 7,
+    "year": 2018,
+    "type": "Remake",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/Lets_Go_Pikachu_EN_boxart.png/250px-Lets_Go_Pikachu_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      }
+    ],
+    "region": "Multi"
+  },
+  {
+    "id": "sword-shield",
+    "title": "Pokémon Sword & Shield",
+    "console": "Nintendo Switch",
+    "generation": 8,
+    "year": 2019,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/4/47/Sword_EN_boxart.png/250px-Sword_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      }
+    ],
+    "region": "Multi",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/8/8d/Shield_EN_boxart.png/250px-Shield_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/9/9f/Sword_JP_boxart.png/200px-Sword_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Shield_JP_boxart.png/200px-Shield_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "brilliant-diamond-shining-pearl",
+    "title": "Pokémon Brilliant Diamond & Shining Pearl",
+    "console": "Nintendo Switch",
+    "generation": 8,
+    "year": 2021,
+    "type": "Remake",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Brilliant_Diamond_EN_boxart.png/250px-Brilliant_Diamond_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      }
+    ],
+    "region": "Multi",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/f/fa/Shining_Pearl_EN_boxart.png/250px-Shining_Pearl_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/3/38/Brilliant_Diamond_JP_boxart.png/200px-Brilliant_Diamond_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/2/2e/Shining_Pearl_JP_boxart.png/200px-Shining_Pearl_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "legends-arceus",
+    "title": "Pokémon Legends: Arceus",
+    "console": "Nintendo Switch",
+    "generation": 8,
+    "year": 2022,
+    "type": "Spin-off",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/Legends_Arceus_EN_boxart.png/250px-Legends_Arceus_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      }
+    ],
+    "region": "Multi",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/d/d2/Legends_Arceus_JP_boxart.png/200px-Legends_Arceus_JP_boxart.png"
+    ]
+  },
+  {
+    "id": "scarlet-violet",
+    "title": "Pokémon Scarlet & Violet",
+    "console": "Nintendo Switch",
+    "generation": 9,
+    "year": 2022,
+    "type": "Principal",
+    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/Scarlet_EN_boxart.png/250px-Scarlet_EN_boxart.png",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      }
+    ],
+    "region": "Multi",
+    "screenshots": [
+      "https://archives.bulbagarden.net/media/upload/thumb/1/13/Violet_EN_boxart.png/250px-Violet_EN_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/c/ca/Scarlet_JP_boxart.png/200px-Scarlet_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/1/14/Violet_JP_boxart.png/200px-Violet_JP_boxart.png",
+      "https://archives.bulbagarden.net/media/upload/thumb/2/20/The_Way_Home_Violet_descend.png/200px-The_Way_Home_Violet_descend.png"
+    ]
+  }
+]
