@@ -29,7 +29,7 @@
 
   /* radius varies by function — SOMO constraint */
   --radius-chip: 2px;
-  --radius-card: 4px;
+  --radius-card: 16px;
   --radius-input: 6px;
   --radius-pill: 9999px;
 }

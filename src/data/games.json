@@ -6,7 +6,7 @@
     "generation": 1,
     "year": 1996,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/8/80/Red_EN_boxart.png/250px-Red_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pi4.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -19,10 +19,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/5/5a/Blue_EN_boxart.png/250px-Blue_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/6/6b/RG_prerelease_flyer_original_release_date.jpg/200px-RG_prerelease_flyer_original_release_date.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/8/8a/Pokemon_conceptart.jpg/200px-Pokemon_conceptart.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/c/c9/CoroCoro_Nov1996_P20_P21.jpg/200px-CoroCoro_Nov1996_P20_P21.jpg"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapis.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapip.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapiq.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapir.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapit.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1krw.jpg"
     ]
   },
   {
@@ -32,7 +34,7 @@
     "generation": 1,
     "year": 1998,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/9/95/Yellow_EN_boxart.png/250px-Yellow_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pih.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -45,7 +47,11 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/e/e4/Pokemon_Yellow_cartridge.png/200px-Pokemon_Yellow_cartridge.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapob.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapoc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapod.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapoe.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1kry.jpg"
     ]
   },
   {
@@ -55,7 +61,7 @@
     "generation": 2,
     "year": 1999,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/c/c7/Gold_EN_boxart.png/250px-Gold_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pia.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -68,10 +74,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Silver_EN_boxart.png/250px-Silver_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/5/54/Gold_JP_boxart.png/200px-Gold_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/4/49/Silver_JP_boxart.png/200px-Silver_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/5/5f/PocketMonstersGumEun.jpg/200px-PocketMonstersGumEun.jpg"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapof.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapog.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapoh.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapoi.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scapoj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1kof.jpg"
     ]
   },
   {
@@ -81,7 +89,7 @@
     "generation": 2,
     "year": 2000,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/60/Crystal_EN_boxart.png/250px-Crystal_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pil.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -94,7 +102,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/6/61/Pokemoncrystal.logo.png/200px-Pokemoncrystal.logo.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfi.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfl.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfm.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfn.jpg"
     ]
   },
   {
@@ -104,7 +117,7 @@
     "generation": 3,
     "year": 2002,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/Ruby_EN_boxart.png/250px-Ruby_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhq.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -121,10 +134,9 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/6/62/Sapphire_EN_boxart.png/250px-Sapphire_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/a/a2/Ruby_JP_boxart.png/200px-Ruby_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/3/3c/Sapphire_JP_boxart.png/200px-Sapphire_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/d/d7/Ruby_Beta_EN_boxart.jpg/230px-Ruby_Beta_EN_boxart.jpg"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/dwvw0inff1ds40imnalf.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ga9tepkhebpqvx4jude9.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21yg.jpg"
     ]
   },
   {
@@ -134,7 +146,7 @@
     "generation": 3,
     "year": 2004,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/65/Emerald_EN_boxart.jpg/250px-Emerald_EN_boxart.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -151,7 +163,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/c/c2/Emerald_JP_boxart.png/250px-Emerald_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pxxxldjjkkhtb3jznj9h.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uwzpqwjvmzcepd8jjxub.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vt40b0l2aqesb7qkpad8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bafm66dp5k0lutvvzali.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/c77bodnkwu73gs2jwhw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21y7.jpg"
     ]
   },
   {
@@ -161,7 +178,7 @@
     "generation": 3,
     "year": 2004,
     "type": "Remake",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/4/43/FireRed_EN_boxart.png/250px-FireRed_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -178,9 +195,9 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/d/d7/LeafGreen_EN_boxart.png/250px-LeafGreen_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/d/d2/FireRed_JP_boxart.png/200px-FireRed_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/9/99/LeafGreen_JP_boxart.png/200px-LeafGreen_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qsxdlfhke4g5tr7dpwur.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zy2diilz2prc6ridynml.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjzthdvgstynlgqmqggd.jpg"
     ]
   },
   {
@@ -190,7 +207,7 @@
     "generation": 3,
     "year": 2005,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/b/b4/MD_Red_EN_boxart.jpg/250px-MD_Red_EN_boxart.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21em.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -207,9 +224,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/8/8f/MD_Blue_EN_boxart.jpg/250px-MD_Blue_EN_boxart.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/7/7e/MD_Red_JP_boxart.png/200px-MD_Red_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/1/1b/MD_Blue_JP_boxart.png/200px-MD_Blue_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/oz3cc93lkdqz8vrluoxb.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/o8zfmr4bowkyol3xhjlq.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jqmhnya3heu6kisklcfp.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/s15r2qtdcxc5ajhlrqgp.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/fvkekjxogvwk9lzlqqfb.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/av2acnldmblractqqc91.jpg"
     ]
   },
   {
@@ -219,31 +239,7 @@
     "generation": 4,
     "year": 2006,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/69/Diamond_EN_boxart.jpg/250px-Diamond_EN_boxart.jpg",
-    "downloads": [
-      {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
-      },
-      {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
-      },
-      {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
-      }
-    ],
-    "region": "USA"
-  },
-  {
-    "id": "platinum",
-    "title": "Pokémon Platinum",
-    "console": "Nintendo DS",
-    "generation": 4,
-    "year": 2008,
-    "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/8/83/Platinum_EN_boxart.png/250px-Platinum_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5to9.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -260,7 +256,40 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/4/45/Platinum_JP_boxart.png/250px-Platinum_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sccf71.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sccf72.jpg"
+    ]
+  },
+  {
+    "id": "platinum",
+    "title": "Pokémon Platinum",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2008,
+    "type": "Principal",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gvp.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/iedkn3nfzjeetempwctg.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/j0q0wl52j9pa4xw2euh8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qytld0xjmhlqh6sx19jy.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ukoiwauxg0aojlmqvxoo.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jgqsjiygx6nc0grkzmp8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wgxzsqmon8oym3vrvuob.jpg"
     ]
   },
   {
@@ -270,7 +299,7 @@
     "generation": 4,
     "year": 2009,
     "type": "Remake",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/6/6e/HeartGold_EN_boxart.jpg/250px-HeartGold_EN_boxart.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z57.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -287,10 +316,10 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/5/5c/SoulSilver_EN_boxart.jpg/250px-SoulSilver_EN_boxart.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/8/89/HeartGold_JP_boxart.jpg/200px-HeartGold_JP_boxart.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/e/e2/SoulSilver_JP_boxart.jpg/200px-SoulSilver_JP_boxart.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/8/8b/Teddiursa_and_Gold.png/200px-Teddiursa_and_Gold.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjoqjtacy0plkf2gcas1.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vnt6pnmut2umlckaexnu.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ldggejpm4duw76tvgeh4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zqlxls8gei33a9jl9mqx.jpg"
     ]
   },
   {
@@ -300,7 +329,7 @@
     "generation": 5,
     "year": 2010,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/d/dc/Black_EN_boxart.png/250px-Black_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z1x.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -317,10 +346,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/0/08/White_EN_boxart.png/250px-White_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/2/2e/Black_JP_boxart.png/200px-Black_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/0/0d/White_JP_boxart.png/200px-White_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/6/68/BWFamitsu.jpg/200px-BWFamitsu.jpg"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vtsxqhxlbnbv5mibvwbk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ln8z4f5rae9kggt71pu2.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pbq0qh1otdav683ga9ko.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/y7ouszozoswm46tnrxah.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ywn3xvr1b85vyr5nwbha.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wgtzpbscvb4aqmjtxzi1.jpg"
     ]
   },
   {
@@ -330,7 +361,7 @@
     "generation": 5,
     "year": 2012,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/34/Black_2_EN_boxart.png/250px-Black_2_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z8d.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -347,9 +378,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/1/14/White_2_EN_boxart.png/250px-White_2_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/8/8e/Black_2_JP_boxart.png/200px-Black_2_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/e/ef/White_2_JP_boxart.png/200px-White_2_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/u5c348wzqslvpa4poi5q.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/va9pn41ijpygtzu24hn9.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pc3lt8w92elpwrzo6fxw.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pftffrkyqmzd2vxdsjw6.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/th7gubhvtxjekogohjhw.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jlo7pgeueajlusrum4ge.jpg"
     ]
   },
   {
@@ -359,31 +393,7 @@
     "generation": 4,
     "year": 2007,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/b/b1/MD_Time_EN_boxart.jpg/250px-MD_Time_EN_boxart.jpg",
-    "downloads": [
-      {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
-      },
-      {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
-      },
-      {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
-      }
-    ],
-    "region": "USA"
-  },
-  {
-    "id": "mystery-dungeon-explorers-sky",
-    "title": "Mystery Dungeon: Explorers of Sky",
-    "console": "Nintendo DS",
-    "generation": 4,
-    "year": 2009,
-    "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/3b/MD_Sky_EN_boxart.jpg/250px-MD_Sky_EN_boxart.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yzu.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -400,8 +410,44 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/a/a8/MD_Sky_JP_boxart.jpg/200px-MD_Sky_JP_boxart.jpg",
-      "https://archives.bulbagarden.net/media/upload/thumb/8/8f/Wigglytuff_and_Chatot.png/300px-Wigglytuff_and_Chatot.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vcwlnzhop2hmeucddt9b.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/k5x9dxhmcxh93uyeyc8t.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/nqlmhycan9ociaty9tyi.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zkz2vjgpxjgrzeqlajv0.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/tt3c9vu25do2ub9tpwwn.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/eawd8c1tkv82aqxlujv6.jpg"
+    ]
+  },
+  {
+    "id": "mystery-dungeon-explorers-sky",
+    "title": "Mystery Dungeon: Explorers of Sky",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2009,
+    "type": "Spin-off",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ovf.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/xh1biuxffsqcsii6kst4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/t6ekzhivcxosrxayiuew.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/hypafp3ayv7hvtpc1atw.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/xxi1lbbocpp0zispmikr.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sco1gl.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1kc2.jpg"
     ]
   },
   {
@@ -411,7 +457,7 @@
     "generation": 5,
     "year": 2012,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/31/Conquest_EN_boxart.jpg/250px-Conquest_EN_boxart.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxm.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -428,7 +474,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/9/99/Conquest_JP_boxart.png/200px-Conquest_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uey6b0hvrormhaoemcld.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/i5hcxtfdkyrexn0iwef1.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uqf7prcjlnt8tk7sabf9.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/rb48bkbkivv1mmazw53s.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/px60sidb1jvgwoajubbz.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mcryjat8tgjzdkrezbjk.jpg"
     ]
   },
   {
@@ -438,31 +489,7 @@
     "generation": 3,
     "year": 2006,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/2/21/Ranger_EN_boxart.jpg/250px-Ranger_EN_boxart.jpg",
-    "downloads": [
-      {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
-      },
-      {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
-      },
-      {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
-      }
-    ],
-    "region": "USA"
-  },
-  {
-    "id": "ranger-shadows-of-almia",
-    "title": "Pokémon Ranger: Shadows of Almia",
-    "console": "Nintendo DS",
-    "generation": 4,
-    "year": 2008,
-    "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/c/ce/Ranger_SoA_EN_boxart.png/250px-Ranger_SoA_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z5b.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -479,7 +506,44 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/9/9b/Ranger_SoA_JP_boxart.jpg/200px-Ranger_SoA_JP_boxart.jpg"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/asyd6ry9aoxb4p8dlahv.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/f69uzk8hv04ooanllw0h.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/iialigmgvpu9yi9vyh7z.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jhcbyxjy1exwnnndohnk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/iye4qxxobje3lpfxoggl.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1ko0.jpg"
+    ]
+  },
+  {
+    "id": "ranger-shadows-of-almia",
+    "title": "Pokémon Ranger: Shadows of Almia",
+    "console": "Nintendo DS",
+    "generation": 4,
+    "year": 2008,
+    "type": "Spin-off",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yzl.jpg",
+    "downloads": [
+      {
+        "url": "https://archive.org/details/pokemon-gba-roms",
+        "source": "Archive.org"
+      },
+      {
+        "url": "https://www.pokeharbor.com",
+        "source": "PokéHarbor"
+      },
+      {
+        "url": "https://vimm.net/vault",
+        "source": "Vimm's Lair"
+      }
+    ],
+    "region": "USA",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/slwhnclwnpsfmhkucdqq.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/hb6lmlunrsapmjfkdwbc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/j8nd4ov36utja5iizgky.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/fagwfdnkg4dovzwb57xu.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jhv2don24dhlfsece8mi.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zgsrqbbjt7qgyrpotjj6.jpg"
     ]
   },
   {
@@ -489,7 +553,7 @@
     "generation": 4,
     "year": 2010,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Ranger_GS_EN_boxart.png/250px-Ranger_GS_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z1q.jpg",
     "downloads": [
       {
         "url": "https://archive.org/details/pokemon-gba-roms",
@@ -506,7 +570,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/a/ac/Ranger_GS_JP_boxart.jpg/200px-Ranger_GS_JP_boxart.jpg"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/etybvhm8kge2ghbd5msc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jzshohifakjherwtvtcf.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/op7ilapqh8ejanzu4js5.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ooushph0tkbondhmnb5o.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ep4dlq6yrhyk0ijnadqa.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/fyovl5qljqymacp8m7uw.jpg"
     ]
   },
   {
@@ -516,7 +585,7 @@
     "generation": 6,
     "year": 2013,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/2/27/X_EN_boxart.png/250px-X_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z8y.jpg",
     "downloads": [
       {
         "url": "https://cdromance.org",
@@ -529,9 +598,9 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/4/41/Y_EN_boxart.png/250px-Y_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/0/09/X_JP_boxart.png/200px-X_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/0/04/Y_JP_boxart.png/200px-Y_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ieqymo6txpycohvgfrbz.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/hkxnbcx1zxgnuwbf7qhv.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1i1g.jpg"
     ]
   },
   {
@@ -541,7 +610,7 @@
     "generation": 6,
     "year": 2014,
     "type": "Remake",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/5b/Omega_Ruby_EN_boxart.png/250px-Omega_Ruby_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6sz3.jpg",
     "downloads": [
       {
         "url": "https://cdromance.org",
@@ -554,10 +623,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/f/f2/Alpha_Sapphire_EN_boxart.png/250px-Alpha_Sapphire_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/e/e6/Omega_Ruby_JP_boxart.png/200px-Omega_Ruby_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/e/eb/Alpha_Sapphire_JP_boxart.png/200px-Alpha_Sapphire_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/5/59/ORAS_Delta_Episode.png/250px-ORAS_Delta_Episode.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/diq5yg5iqxutkunls6ae.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/h8xujelktb58edxbqw5s.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/duwt55a4ppxjcj95jxpc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qdtglpyti24wgmx5djvu.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/chzej5xixk2m2z6hmzs2.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/haecjvf2pnfur20nnofx.jpg"
     ]
   },
   {
@@ -567,7 +638,7 @@
     "generation": 7,
     "year": 2016,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/0/06/Sun_EN_boxart.png/250px-Sun_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3co7.jpg",
     "downloads": [
       {
         "url": "https://cdromance.org",
@@ -580,9 +651,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/3/38/Moon_EN_boxart.png/250px-Moon_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/6/65/Sun_JP_boxart.png/200px-Sun_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/c/c5/Moon_JP_boxart.png/200px-Moon_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/gr7kw4chtdc4bdlzqkmx.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/efew2ob1fvzjwc8qm0d7.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/gmsk61fwa0p6pfqcgeaw.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mpfu9qhfucatglrgrkxp.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mohyswiw0zv1x1pto8wo.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zgdvov6r2oczbqtwrnty.jpg"
     ]
   },
   {
@@ -592,7 +666,7 @@
     "generation": 7,
     "year": 2017,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/d/de/Ultra_Sun_EN_boxart.png/250px-Ultra_Sun_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjs.jpg",
     "downloads": [
       {
         "url": "https://cdromance.org",
@@ -605,9 +679,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/8/86/Ultra_Moon_EN_boxart.png/250px-Ultra_Moon_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/5/5b/Ultra_Sun_JP_boxart.png/200px-Ultra_Sun_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/5/51/Ultra_Moon_JP_boxart.png/200px-Ultra_Moon_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/auyrudiwbdtmv1gpjq5x.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wswdqfqeqme0iyvx5y9p.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wtorzpnycbtz8j0skvw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar5g5.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar5g7.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar5g4.jpg"
     ]
   },
   {
@@ -617,7 +694,7 @@
     "generation": 6,
     "year": 2012,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/8/8e/MD_GTI_EN_boxart.png/250px-MD_GTI_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4z.jpg",
     "downloads": [
       {
         "url": "https://cdromance.org",
@@ -630,10 +707,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/1/18/MD_GTI_JP_boxart.png/200px-MD_GTI_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/9/99/Localwireless.png/200px-Localwireless.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/3/3f/Teamattack.png/250px-Teamattack.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/8/80/Pok%C3%A9_Forest_art_PMDGTI.png/250px-Pok%C3%A9_Forest_art_PMDGTI.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/xfdvv6hpiaecebeqcc9k.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zsqciuvp1wdnnoiltxpt.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zritfbkim4lfhjtnoaxn.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/cgxagmqi1xiilvdq9bim.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ih0sdjpgccast4isxppy.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ebn0hqbiod5nvtfnzeok.jpg"
     ]
   },
   {
@@ -643,7 +722,7 @@
     "generation": 6,
     "year": 2015,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/2/22/Super_Mystery_Dungeon_EN_boxart.png/250px-Super_Mystery_Dungeon_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zj4.jpg",
     "downloads": [
       {
         "url": "https://cdromance.org",
@@ -656,10 +735,12 @@
     ],
     "region": "USA",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/0/09/Super_Mystery_Dungeon_JP_boxart.png/200px-Super_Mystery_Dungeon_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/3/35/Alliance_PSMD.png/250px-Alliance_PSMD.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/5/59/Mega_Evolution_PSMD.png/250px-Mega_Evolution_PSMD.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/4/4c/Pokemon_Selection_Super_Mystery_Dungeon.png/250px-Pokemon_Selection_Super_Mystery_Dungeon.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/dtk3ohpv4htxrytyxnjx.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/myqreeq9wl6stahzkdpc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/lfdzxguseynanlhdcftw.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/lo2mwjden5rm4udkpymf.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zoltrydcbbvssemzl2td.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/aezwfndsx21a5unbdcaz.jpg"
     ]
   },
   {
@@ -669,23 +750,7 @@
     "generation": 7,
     "year": 2018,
     "type": "Remake",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/a/ae/Lets_Go_Pikachu_EN_boxart.png/250px-Lets_Go_Pikachu_EN_boxart.png",
-    "downloads": [
-      {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
-      }
-    ],
-    "region": "Multi"
-  },
-  {
-    "id": "sword-shield",
-    "title": "Pokémon Sword & Shield",
-    "console": "Nintendo Switch",
-    "generation": 8,
-    "year": 2019,
-    "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/4/47/Sword_EN_boxart.png/250px-Sword_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjy.jpg",
     "downloads": [
       {
         "url": "https://sudachi.en.uptodown.com/android",
@@ -694,9 +759,36 @@
     ],
     "region": "Multi",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/8/8d/Shield_EN_boxart.png/250px-Shield_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/9/9f/Sword_JP_boxart.png/200px-Sword_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/f/f5/Shield_JP_boxart.png/200px-Shield_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wusyhc8xov4bldpil4my.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/n1jbkybjz6entv3a5gvd.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uvufj8hsohxilfq84bqu.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/p9ogwu6qujrivbhp7ker.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/g1o6wjofeyfjz0xx0fly.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc5jod.jpg"
+    ]
+  },
+  {
+    "id": "sword-shield",
+    "title": "Pokémon Sword & Shield",
+    "console": "Nintendo Switch",
+    "generation": 8,
+    "year": 2019,
+    "type": "Principal",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk2.jpg",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      }
+    ],
+    "region": "Multi",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc67pk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc67pn.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc67po.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc67pl.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc67pj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc67pm.jpg"
     ]
   },
   {
@@ -706,7 +798,7 @@
     "generation": 8,
     "year": 2021,
     "type": "Remake",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/33/Brilliant_Diamond_EN_boxart.png/250px-Brilliant_Diamond_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
     "downloads": [
       {
         "url": "https://sudachi.en.uptodown.com/android",
@@ -715,9 +807,12 @@
     ],
     "region": "Multi",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/f/fa/Shining_Pearl_EN_boxart.png/250px-Shining_Pearl_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/3/38/Brilliant_Diamond_JP_boxart.png/200px-Brilliant_Diamond_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/2/2e/Shining_Pearl_JP_boxart.png/200px-Shining_Pearl_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93af.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ag.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ah.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ai.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93aj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar9jf.jpg"
     ]
   },
   {
@@ -727,7 +822,7 @@
     "generation": 8,
     "year": 2022,
     "type": "Spin-off",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/3/3a/Legends_Arceus_EN_boxart.png/250px-Legends_Arceus_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d03.jpg",
     "downloads": [
       {
         "url": "https://sudachi.en.uptodown.com/android",
@@ -736,7 +831,12 @@
     ],
     "region": "Multi",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/d/d2/Legends_Arceus_JP_boxart.png/200px-Legends_Arceus_JP_boxart.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ak.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93al.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93am.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93an.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar9r2.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar3vlx.jpg"
     ]
   },
   {
@@ -746,7 +846,7 @@
     "generation": 9,
     "year": 2022,
     "type": "Principal",
-    "coverUrl": "https://archives.bulbagarden.net/media/upload/thumb/5/5f/Scarlet_EN_boxart.png/250px-Scarlet_EN_boxart.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfi.jpg",
     "downloads": [
       {
         "url": "https://sudachi.en.uptodown.com/android",
@@ -755,10 +855,11 @@
     ],
     "region": "Multi",
     "screenshots": [
-      "https://archives.bulbagarden.net/media/upload/thumb/1/13/Violet_EN_boxart.png/250px-Violet_EN_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/c/ca/Scarlet_JP_boxart.png/200px-Scarlet_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/1/14/Violet_JP_boxart.png/200px-Violet_JP_boxart.png",
-      "https://archives.bulbagarden.net/media/upload/thumb/2/20/The_Way_Home_Violet_descend.png/200px-The_Way_Home_Violet_descend.png"
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scg8ug.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scg8ue.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scg8uf.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scg8ud.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar3vl5.jpg"
     ]
   }
 ]

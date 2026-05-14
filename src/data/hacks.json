@@ -6,9 +6,17 @@
     "baseGame": "Pokémon FireRed",
     "year": 2023,
     "description": "Hack de dificuldade extrema sobre Kanto. Todos os 900+ Pokémon são capturáveis, com mecânicas, habilidades e movimentos das gerações 8/9. Treinadores e líderes têm equipes competitivas, e vários Pokémon foram rebalanceados (buffs e nerfs).",
-    "coverUrl": "https://images.launchbox-app.com/afb07914-7767-4b36-959c-4cc5595b79e8.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-radical-red-v4-1.418025/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-radical-red-v4-1.418025/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qsxdlfhke4g5tr7dpwur.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zy2diilz2prc6ridynml.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjzthdvgstynlgqmqggd.jpg"
     ]
   },
   {
@@ -18,9 +26,17 @@
     "baseGame": "Pokémon FireRed",
     "year": 2022,
     "description": "Região nova (Borrius) com história autoral e pós-game extenso. Adiciona modos de dificuldade ajustáveis, sistema de side-quests, missões, mini-games e mecânicas modernas até a geração 8.",
-    "coverUrl": "https://images.launchbox-app.com/f2e4e2cc-3784-4ced-8ec8-1eb1da0c7ec9.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-unbound-completed.382178/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-unbound-completed.382178/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qsxdlfhke4g5tr7dpwur.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zy2diilz2prc6ridynml.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjzthdvgstynlgqmqggd.jpg"
     ]
   },
   {
@@ -30,9 +46,20 @@
     "baseGame": "Pokémon Emerald",
     "year": 2023,
     "description": "Transforma Emerald num roguelike: cada run é aleatória, com rotas, encontros e itens gerados a cada partida. Não há história fixa — o foco é montar equipes e sobreviver até a Elite dos Quatro.",
-    "coverUrl": "https://images.launchbox-app.com/5ea7e17d-6e1e-47b5-84ba-c827324d851e.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-emerald-rogue.469760/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-emerald-rogue.469760/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pxxxldjjkkhtb3jznj9h.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uwzpqwjvmzcepd8jjxub.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vt40b0l2aqesb7qkpad8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bafm66dp5k0lutvvzali.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/c77bodnkwu73gs2jwhw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21y7.jpg"
     ]
   },
   {
@@ -42,9 +69,20 @@
     "baseGame": "Pokémon Emerald",
     "year": 2023,
     "description": "Hack de dificuldade sobre Hoenn. Todos os Pokémon ficam disponíveis, há level cap por ginásio, mecânicas modernas e treinadores com times mais inteligentes. Inclui opções de customização da dificuldade.",
-    "coverUrl": "",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-inclement-emerald.460562/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-inclement-emerald.460562/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pxxxldjjkkhtb3jznj9h.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uwzpqwjvmzcepd8jjxub.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vt40b0l2aqesb7qkpad8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bafm66dp5k0lutvvzali.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/c77bodnkwu73gs2jwhw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21y7.jpg"
     ]
   },
   {
@@ -54,9 +92,20 @@
     "baseGame": "Pokémon Emerald",
     "year": 2023,
     "description": "Hack de dificuldade hardcore voltada a desafios e nuzlockes. IA dos treinadores fortemente aprimorada, equipes otimizadas e regras de balanceamento pensadas para jogadores experientes.",
-    "coverUrl": "https://images.launchbox-app.com/8582e24b-67b1-44ca-9e8e-9a623056e98a.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-run-bun.515167/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-run-bun.515167/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pxxxldjjkkhtb3jznj9h.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uwzpqwjvmzcepd8jjxub.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vt40b0l2aqesb7qkpad8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bafm66dp5k0lutvvzali.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/c77bodnkwu73gs2jwhw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21y7.jpg"
     ]
   },
   {
@@ -66,9 +115,17 @@
     "baseGame": "Pokémon FireRed",
     "year": 2018,
     "description": "Região nova (Orbtus) com história autoral focada em ruínas e cataclismos. Inclui Pokémon até a geração 6, movimentos e habilidades novos, e mecânica de Mega Evolução.",
-    "coverUrl": "https://images.launchbox-app.com/1cb3de09-830e-4b30-bc4c-04e206612148.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-gaia-version.323641/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-gaia-version.323641/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qsxdlfhke4g5tr7dpwur.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zy2diilz2prc6ridynml.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjzthdvgstynlgqmqggd.jpg"
     ]
   },
   {
@@ -78,9 +135,20 @@
     "baseGame": "Pokémon Emerald",
     "year": 2020,
     "description": "Aventura por três regiões (Tunod, Johto e Rankor) com starters não convencionais e Pokémon de várias gerações. História própria, novos eventos e cruzamento com outros universos.",
-    "coverUrl": "https://images.launchbox-app.com/1bcaf3bf-853d-4981-9ae0-53c31e684bd6.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-glazed-completed.282838/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-glazed-completed.282838/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pxxxldjjkkhtb3jznj9h.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/uwzpqwjvmzcepd8jjxub.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vt40b0l2aqesb7qkpad8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bafm66dp5k0lutvvzali.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/c77bodnkwu73gs2jwhw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21y7.jpg"
     ]
   },
   {
@@ -90,9 +158,17 @@
     "baseGame": "Pokémon FireRed",
     "year": 2018,
     "description": "Remake de Pokémon Crystal (Johto) na engine de FireRed, com gráficos atualizados, conteúdo pós-game adicional, novas ilhas e eventos expandidos.",
-    "coverUrl": "https://images.launchbox-app.com/8bd7e2a3-9b79-487f-9b62-a40e77593f17.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-liquid-crystal.243755/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-liquid-crystal.243755/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qsxdlfhke4g5tr7dpwur.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zy2diilz2prc6ridynml.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjzthdvgstynlgqmqggd.jpg"
     ]
   },
   {
@@ -102,9 +178,20 @@
     "baseGame": "Pokémon Crystal",
     "year": 2020,
     "description": "Transforma Crystal num jogo de mundo aberto: escolha livre de starter, região e ordem dos ginásios. Sem rota fixa — exploração total de Johto e Kanto desde o início.",
-    "coverUrl": "https://images.launchbox-app.com/b6c57165-cb62-4855-ad60-dca5e6847471.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pil.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-crystal-clear.382454/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-crystal-clear.382454/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfi.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfl.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfm.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/schjfn.jpg"
     ]
   },
   {
@@ -114,9 +201,20 @@
     "baseGame": "Pokémon Platinum",
     "year": 2021,
     "description": "Hack de dificuldade sobre Sinnoh. Todos os Pokémon ficam disponíveis no jogo, movesets e distribuição de espécies foram ampliados, e os treinadores têm equipes muito mais desafiadoras.",
-    "coverUrl": "https://images.launchbox-app.com/55ab652b-1a54-46ae-8845-1200fdae5c28.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gvp.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-renegade-platinum.396857/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-renegade-platinum.396857/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/iedkn3nfzjeetempwctg.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/j0q0wl52j9pa4xw2euh8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qytld0xjmhlqh6sx19jy.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ukoiwauxg0aojlmqvxoo.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jgqsjiygx6nc0grkzmp8.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wgxzsqmon8oym3vrvuob.jpg"
     ]
   },
   {
@@ -126,9 +224,18 @@
     "baseGame": "Pokémon HeartGold & SoulSilver",
     "year": 2014,
     "description": "Hack de dificuldade dos remakes de Johto. Os 493 Pokémon ficam capturáveis, com novos movesets, habilidades ajustadas e treinadores reformulados para um desafio mais alto.",
-    "coverUrl": "https://images.launchbox-app.com/r2_2e5a5251-b1ae-41b5-8fa4-53bb66ab4671.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z57.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-gold-storm-silver.180631/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-sacred-gold-storm-silver.180631/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjoqjtacy0plkf2gcas1.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vnt6pnmut2umlckaexnu.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ldggejpm4duw76tvgeh4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zqlxls8gei33a9jl9mqx.jpg"
     ]
   },
   {
@@ -138,9 +245,20 @@
     "baseGame": "Pokémon Black & White",
     "year": 2013,
     "description": "Hack de Unova que torna todos os Pokémon nacionais encontráveis na natureza. Aumenta a dificuldade, ajusta movesets e adiciona variedade muito maior aos encontros selvagens e treinadores.",
-    "coverUrl": "https://images.launchbox-app.com/f51c5fab-1306-4bad-9185-f8cfdef1a16a.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z1x.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-blaze-black-volt-white.165088/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-blaze-black-volt-white.165088/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vtsxqhxlbnbv5mibvwbk.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ln8z4f5rae9kggt71pu2.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pbq0qh1otdav683ga9ko.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/y7ouszozoswm46tnrxah.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ywn3xvr1b85vyr5nwbha.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wgtzpbscvb4aqmjtxzi1.jpg"
     ]
   },
   {
@@ -150,9 +268,20 @@
     "baseGame": "Pokémon Omega Ruby & Alpha Sapphire",
     "year": 2016,
     "description": "Hack de dificuldade de ORAS feita por Drayano. Todos os Pokémon ficam obteníveis ao longo do jogo, líderes e treinadores têm equipes muito mais fortes, e a distribuição de espécies e movesets foi ampliada.",
-    "coverUrl": "https://images.launchbox-app.com/c096a066-cfe6-4df6-b9b4-10ab25c98f4b.jpg",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6sz3.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/oras-hack-pok%C3%A9mon-rutile-ruby-and-star-sapphire.359470/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/oras-hack-pok%C3%A9mon-rutile-ruby-and-star-sapphire.359470/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/diq5yg5iqxutkunls6ae.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/h8xujelktb58edxbqw5s.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/duwt55a4ppxjcj95jxpc.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qdtglpyti24wgmx5djvu.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/chzej5xixk2m2z6hmzs2.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/haecjvf2pnfur20nnofx.jpg"
     ]
   },
   {
@@ -162,9 +291,20 @@
     "baseGame": "Pokémon Sun & Moon",
     "year": 2018,
     "description": "Hack de dificuldade de Sun & Moon. Eleva o nível dos treinadores e líderes, expande os encontros selvagens para incluir mais espécies e rebalanceia o jogo para um desafio mais alto.",
-    "coverUrl": "https://images.launchbox-app.com/r2_99cd9a08-c1b0-4fa3-8016-03eef2002b2c.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3co7.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-rising-sun-waning-moon.385859/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-rising-sun-waning-moon.385859/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/gr7kw4chtdc4bdlzqkmx.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/efew2ob1fvzjwc8qm0d7.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/gmsk61fwa0p6pfqcgeaw.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mpfu9qhfucatglrgrkxp.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mohyswiw0zv1x1pto8wo.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zgdvov6r2oczbqtwrnty.jpg"
     ]
   },
   {
@@ -174,9 +314,20 @@
     "baseGame": "Pokémon Ultra Sun & Ultra Moon",
     "year": 2019,
     "description": "Hack de dificuldade de Ultra Sun & Ultra Moon feita por Buffel Saft. Todos os Pokémon ficam disponíveis, treinadores foram reforçados e há ajustes de balanceamento focados em desafio.",
-    "coverUrl": "",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjs.jpg",
     "downloads": [
-      { "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-supernova-sun-penumbra-moon.430492/", "source": "PokéCommunity" }
+      {
+        "url": "https://www.pokecommunity.com/threads/pok%C3%A9mon-supernova-sun-penumbra-moon.430492/",
+        "source": "PokéCommunity"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/auyrudiwbdtmv1gpjq5x.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wswdqfqeqme0iyvx5y9p.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wtorzpnycbtz8j0skvw4.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar5g5.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar5g7.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar5g4.jpg"
     ]
   },
   {
@@ -186,9 +337,20 @@
     "baseGame": "Pokémon Brilliant Diamond",
     "year": 2023,
     "description": "Overhaul de Brilliant Diamond inspirado em Renegade Platinum. Adiciona conteúdo de Platinum, 500+ Pokémon capturáveis com todas as evoluções até a Gen 8, formas regionais na natureza, evoluções por troca via item e Pokémon te seguindo no estilo HG/SS.",
-    "coverUrl": "https://images.launchbox-app.com/8bcb8de9-7685-4642-ace3-48996f9bd505.png",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
     "downloads": [
-      { "url": "https://luminescent.team/", "source": "Site oficial" }
+      {
+        "url": "https://luminescent.team/",
+        "source": "Site oficial"
+      }
+    ],
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93af.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ag.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ah.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93ai.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93aj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar9jf.jpg"
     ]
   }
 ]

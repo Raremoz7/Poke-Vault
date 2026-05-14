@@ -20,7 +20,7 @@ export function SearchField({ value, onChange }: Props) {
         onChange={(e) => onChange(e.target.value)}
         placeholder="Buscar por título…"
         aria-label="Buscar jogos por título"
-        className="h-12 w-full rounded-input border border-border bg-bg-card pl-10 pr-10 font-body text-base text-text-primary placeholder:text-text-muted focus:border-accent focus:outline-none"
+        className="h-12 w-full rounded-pill border border-border bg-bg-card pl-10 pr-10 font-body text-base text-text-primary placeholder:text-text-muted focus:border-accent focus:outline-none"
       />
       {value && (
         <button

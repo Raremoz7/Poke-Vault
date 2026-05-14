@@ -1,3 +1,5 @@
+import { useEffect, useRef, useState } from 'react'
+import { CaretDown, Check } from '@phosphor-icons/react'
 import { CONSOLE_META, CONSOLE_ORDER, GAME_TYPES } from '../data/consoles'
 import type { ConsoleFilter, TypeFilter } from '../hooks/useGames'
 
@@ -9,6 +11,26 @@ interface Props {
   showTypeFilter?: boolean
 }
 
+interface Option {
+  value: string
+  label: string
+  color?: string
+}
+
+const consoleOptions: Option[] = [
+  { value: 'Todos', label: 'Todos os consoles' },
+  ...CONSOLE_ORDER.map((c) => ({
+    value: c,
+    label: CONSOLE_META[c].short,
+    color: CONSOLE_META[c].colorVar,
+  })),
+]
+
+const typeOptions: Option[] = [
+  { value: 'Todos', label: 'Todos os tipos' },
+  ...GAME_TYPES.map((t) => ({ value: t, label: t })),
+]
+
 export function FilterBar({
   consoleFilter,
   setConsoleFilter,
@@ -17,104 +39,123 @@ export function FilterBar({
   showTypeFilter = true,
 }: Props) {
   return (
-    <div className="flex flex-col gap-2.5">
-      {/* console — color-coded chips, horizontally scrollable */}
-      <div
-        className="no-scrollbar -mx-4 flex gap-2 overflow-x-auto px-4"
-        role="group"
-        aria-label="Filtrar por console"
-      >
-        <ConsoleChip
-          label="Todos"
-          active={consoleFilter === 'Todos'}
-          onClick={() => setConsoleFilter('Todos')}
-        />
-        {CONSOLE_ORDER.map((c) => (
-          <ConsoleChip
-            key={c}
-            label={CONSOLE_META[c].short}
-            color={CONSOLE_META[c].colorVar}
-            active={consoleFilter === c}
-            onClick={() => setConsoleFilter(c)}
-          />
-        ))}
-      </div>
-
-      {/* type — secondary, smaller, separated by spacing hierarchy */}
+    <div className="flex gap-2">
+      <Dropdown
+        label="Console"
+        options={consoleOptions}
+        value={consoleFilter}
+        onChange={(v) => setConsoleFilter(v as ConsoleFilter)}
+      />
       {showTypeFilter && (
-        <div className="flex flex-wrap gap-2" role="group" aria-label="Filtrar por tipo">
-          <TypeChip
-            label="Todos os tipos"
-            active={typeFilter === 'Todos'}
-            onClick={() => setTypeFilter('Todos')}
-          />
-          {GAME_TYPES.map((t) => (
-            <TypeChip
-              key={t}
-              label={t}
-              active={typeFilter === t}
-              onClick={() => setTypeFilter(t)}
-            />
-          ))}
-        </div>
+        <Dropdown
+          label="Tipo"
+          options={typeOptions}
+          value={typeFilter}
+          onChange={(v) => setTypeFilter(v as TypeFilter)}
+        />
       )}
     </div>
   )
 }
 
-function ConsoleChip({
+function Dropdown({
   label,
-  color,
-  active,
-  onClick,
+  options,
+  value,
+  onChange,
 }: {
   label: string
-  color?: string
-  active: boolean
-  onClick: () => void
+  options: Option[]
+  value: string
+  onChange: (value: string) => void
 }) {
-  return (
-    <button
-      type="button"
-      onClick={onClick}
-      aria-pressed={active}
-      className="flex h-11 shrink-0 items-center gap-2 rounded-chip border px-3.5 font-mono text-sm font-medium uppercase tracking-wide transition-colors active:scale-[0.97]"
-      style={{
-        borderColor: active ? color ?? 'var(--color-accent)' : 'var(--color-border)',
-        backgroundColor: active ? 'var(--color-bg-card-hover)' : 'var(--color-bg-card)',
-        color: active ? 'var(--color-text-primary)' : 'var(--color-text-muted)',
-      }}
-    >
-      <span
-        className="h-2 w-2 rounded-full"
-        style={{ backgroundColor: color ?? 'var(--color-text-muted)' }}
-      />
-      {label}
-    </button>
-  )
-}
+  const [open, setOpen] = useState(false)
+  const ref = useRef<HTMLDivElement>(null)
+  const selected = options.find((o) => o.value === value) ?? options[0]
 
-function TypeChip({
-  label,
-  active,
-  onClick,
-}: {
-  label: string
-  active: boolean
-  onClick: () => void
-}) {
+  useEffect(() => {
+    if (!open) return
+    const onPointer = (e: PointerEvent) => {
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false)
+    }
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && setOpen(false)
+    document.addEventListener('pointerdown', onPointer)
+    document.addEventListener('keydown', onKey)
+    return () => {
+      document.removeEventListener('pointerdown', onPointer)
+      document.removeEventListener('keydown', onKey)
+    }
+  }, [open])
+
   return (
-    <button
-      type="button"
-      onClick={onClick}
-      aria-pressed={active}
-      className={`h-9 rounded-pill border px-3.5 font-body text-[13px] transition-colors active:scale-[0.97] ${
-        active
-          ? 'border-accent bg-accent-soft text-text-primary'
-          : 'border-border bg-bg-card text-text-muted'
-      }`}
-    >
-      {label}
-    </button>
+    <div ref={ref} className="relative flex-1">
+      <button
+        type="button"
+        onClick={() => setOpen((o) => !o)}
+        aria-haspopup="listbox"
+        aria-expanded={open}
+        className="flex h-11 w-full items-center gap-2 rounded-pill border border-border bg-bg-card px-3.5 text-left transition-colors active:scale-[0.99]"
+      >
+        {selected.color && (
+          <span
+            className="h-2 w-2 shrink-0 rounded-full"
+            style={{ backgroundColor: selected.color }}
+          />
+        )}
+        <span className="flex min-w-0 flex-1 flex-col leading-none">
+          <span className="font-mono text-[9px] uppercase tracking-[0.15em] text-text-muted">
+            {label}
+          </span>
+          <span className="mt-0.5 truncate font-mono text-sm font-medium uppercase tracking-wide text-text-primary">
+            {selected.label}
+          </span>
+        </span>
+        <CaretDown
+          size={14}
+          weight="bold"
+          className={`shrink-0 text-text-muted transition-transform ${open ? 'rotate-180' : ''}`}
+        />
+      </button>
+
+      {open && (
+        <ul
+          role="listbox"
+          className="absolute left-0 right-0 top-[calc(100%+6px)] z-30 overflow-hidden rounded-card border border-border bg-bg-card py-1 shadow-lg shadow-black/40"
+        >
+          {options.map((opt) => {
+            const active = opt.value === value
+            return (
+              <li key={opt.value}>
+                <button
+                  type="button"
+                  role="option"
+                  aria-selected={active}
+                  onClick={() => {
+                    onChange(opt.value)
+                    setOpen(false)
+                  }}
+                  className={`flex h-10 w-full items-center gap-2 px-3.5 text-left font-mono text-sm uppercase tracking-wide transition-colors ${
+                    active
+                      ? 'bg-bg-card-hover text-text-primary'
+                      : 'text-text-muted active:bg-bg-card-hover'
+                  }`}
+                >
+                  {opt.color ? (
+                    <span
+                      className="h-2 w-2 shrink-0 rounded-full"
+                      style={{ backgroundColor: opt.color }}
+                    />
+                  ) : (
+                    <span className="h-2 w-2 shrink-0" />
+                  )}
+                  <span className="flex-1 truncate">{opt.label}</span>
+                  {active && <Check size={14} weight="bold" className="text-accent" />}
+                </button>
+              </li>
+            )
+          })}
+        </ul>
+      )}
+    </div>
   )
 }

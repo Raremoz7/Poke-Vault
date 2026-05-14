@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import { ArrowLeft, ArrowSquareOut, DownloadSimple } from '@phosphor-icons/react'
 import type { Game, RomHack } from '../types'
 import { CONSOLE_META } from '../data/consoles'
+import { resolveCover } from '../utils/resolveCover'
 import { PokeballIcon } from '../components/PokeballIcon'
 import gamesData from '../data/games.json'
 import hacksData from '../data/hacks.json'
@@ -21,7 +22,8 @@ export function GameDetail() {
   const game: Game | RomHack | undefined =
     games.find((g) => g.id === id) ?? hacks.find((h) => h.id === id)
 
-  const hasCover = game?.coverUrl.trim() !== ''
+  const coverSrc = game ? resolveCover(game.coverUrl) : ''
+  const hasCover = coverSrc !== ''
   const [cover, setCover] = useState<CoverState>(hasCover ? 'loading' : 'error')
 
   if (!game) {
@@ -50,7 +52,7 @@ export function GameDetail() {
           <Link
             to="/"
             aria-label="Voltar à biblioteca"
-            className="flex h-10 w-10 items-center justify-center rounded-input border border-border text-text-primary active:scale-90"
+            className="flex h-10 w-10 items-center justify-center rounded-pill border border-border text-text-primary active:scale-90"
           >
             <ArrowLeft size={20} weight="bold" />
           </Link>
@@ -82,7 +84,7 @@ export function GameDetail() {
               </div>
             ) : (
               <img
-                src={game.coverUrl}
+                src={coverSrc}
                 alt={`Capa de ${game.title}`}
                 width={300}
                 height={400}
@@ -137,29 +139,7 @@ export function GameDetail() {
         )}
 
         {game.screenshots && game.screenshots.length > 0 && (
-          <section className="mt-8">
-            <h2 className="font-display text-lg font-semibold text-text-primary">
-              Imagens do jogo
-            </h2>
-            <div className="mt-3 grid grid-cols-2 gap-2.5">
-              {game.screenshots.map((src, i) => (
-                <a
-                  key={src}
-                  href={src}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="overflow-hidden rounded-card border border-border bg-bg-card-hover active:scale-[0.98]"
-                >
-                  <img
-                    src={src}
-                    alt={`${game.title} — imagem ${i + 1}`}
-                    loading="lazy"
-                    className="aspect-video w-full object-cover"
-                  />
-                </a>
-              ))}
-            </div>
-          </section>
+          <ScreenshotGrid sources={game.screenshots} title={game.title} />
         )}
 
         {/* downloads */}
@@ -203,6 +183,41 @@ export function GameDetail() {
         </section>
       </main>
     </>
+  )
+}
+
+function ScreenshotGrid({ sources, title }: { sources: string[]; title: string }) {
+  // remote image URLs occasionally 404 — drop any that fail to load.
+  const [broken, setBroken] = useState<string[]>([])
+  const valid = sources.filter((src) => !broken.includes(src))
+
+  if (valid.length === 0) return null
+
+  return (
+    <section className="mt-8">
+      <h2 className="font-display text-lg font-semibold text-text-primary">
+        Imagens do jogo
+      </h2>
+      <div className="mt-3 grid grid-cols-2 gap-2.5">
+        {valid.map((src, i) => (
+          <a
+            key={src}
+            href={src}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="overflow-hidden rounded-card border border-border bg-bg-card-hover active:scale-[0.98]"
+          >
+            <img
+              src={src}
+              alt={`${title} — imagem ${i + 1}`}
+              loading="lazy"
+              onError={() => setBroken((b) => [...b, src])}
+              className="aspect-video w-full object-cover"
+            />
+          </a>
+        ))}
+      </div>
+    </section>
   )
 }
 

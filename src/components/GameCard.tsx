@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import { CaretRight } from '@phosphor-icons/react'
 import type { Game, RomHack } from '../types'
 import { CONSOLE_META } from '../data/consoles'
+import { resolveCover } from '../utils/resolveCover'
 import { PokeballIcon } from './PokeballIcon'
 
 interface Props {
@@ -19,7 +20,8 @@ function isHack(game: Game | RomHack): game is RomHack {
 
 export function GameCard({ game, index }: Props) {
   const meta = CONSOLE_META[game.console]
-  const hasCover = game.coverUrl.trim() !== ''
+  const coverSrc = resolveCover(game.coverUrl)
+  const hasCover = coverSrc !== ''
   const [cover, setCover] = useState<CoverState>(hasCover ? 'loading' : 'error')
   const hack = isHack(game) ? game : null
 
@@ -60,7 +62,7 @@ export function GameCard({ game, index }: Props) {
           </div>
         ) : (
           <img
-            src={game.coverUrl}
+            src={coverSrc}
             alt={`Capa de ${game.title}`}
             width={300}
             height={400}

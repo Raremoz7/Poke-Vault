@@ -8,7 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "scrape-covers": "node scripts/scrape-covers.js",
+    "scrape-covers": "node --env-file-if-exists=.env scripts/scrape-covers.js",
     "gen-icons": "node scripts/gen-icons.js"
   },
   "dependencies": {
