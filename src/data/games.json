@@ -15,6 +15,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -43,6 +47,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -70,6 +78,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -98,6 +110,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -594,6 +610,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -619,6 +639,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -647,6 +671,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -675,6 +703,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -703,6 +735,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -731,6 +767,10 @@
       {
         "url": "https://vimm.net/vault",
         "source": "Vimm's Lair"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
       }
     ],
     "region": "USA",
@@ -755,6 +795,14 @@
       {
         "url": "https://sudachi.en.uptodown.com/android",
         "source": "Uptodown"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
+      },
+      {
+        "url": "https://pokebat.net/",
+        "source": "PokéBat"
       }
     ],
     "region": "Multi",
@@ -779,6 +827,14 @@
       {
         "url": "https://sudachi.en.uptodown.com/android",
         "source": "Uptodown"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
+      },
+      {
+        "url": "https://pokebat.net/",
+        "source": "PokéBat"
       }
     ],
     "region": "Multi",
@@ -803,6 +859,14 @@
       {
         "url": "https://sudachi.en.uptodown.com/android",
         "source": "Uptodown"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
+      },
+      {
+        "url": "https://pokebat.net/",
+        "source": "PokéBat"
       }
     ],
     "region": "Multi",
@@ -827,6 +891,14 @@
       {
         "url": "https://sudachi.en.uptodown.com/android",
         "source": "Uptodown"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
+      },
+      {
+        "url": "https://pokebat.net/",
+        "source": "PokéBat"
       }
     ],
     "region": "Multi",
@@ -837,6 +909,38 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sc93an.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar9r2.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar3vlx.jpg"
+    ]
+  },
+  {
+    "id": "legends-za",
+    "title": "Pokémon Legends: Z-A",
+    "console": "Nintendo Switch",
+    "generation": 9,
+    "year": 2025,
+    "type": "Spin-off",
+    "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wzc.jpg",
+    "downloads": [
+      {
+        "url": "https://sudachi.en.uptodown.com/android",
+        "source": "Uptodown"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
+      },
+      {
+        "url": "https://pokebat.net/",
+        "source": "PokéBat"
+      }
+    ],
+    "region": "Multi",
+    "screenshots": [
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvsqf.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvsqg.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvsqh.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvsqi.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvsqj.jpg",
+      "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/scvsqk.jpg"
     ]
   },
   {
@@ -851,6 +955,14 @@
       {
         "url": "https://sudachi.en.uptodown.com/android",
         "source": "Uptodown"
+      },
+      {
+        "url": "https://www.romsgames.net/tags/pokemon-roms/",
+        "source": "Roms Games"
+      },
+      {
+        "url": "https://pokebat.net/",
+        "source": "PokéBat"
       }
     ],
     "region": "Multi",

@@ -1,6 +1,14 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { ArrowLeft, ArrowSquareOut, DownloadSimple } from '@phosphor-icons/react'
+import {
+  ArrowLeft,
+  ArrowSquareOut,
+  CaretLeft,
+  CaretRight,
+  DownloadSimple,
+  GameController,
+  X,
+} from '@phosphor-icons/react'
 import type { Game, RomHack } from '../types'
 import { CONSOLE_META } from '../data/consoles'
 import { resolveCover } from '../utils/resolveCover'
@@ -181,6 +189,49 @@ export function GameDetail() {
             ))}
           </ul>
         </section>
+
+        {/* how to run */}
+        <section className="mt-8">
+          <h2 className="flex items-center gap-2 font-display text-lg font-semibold text-text-primary">
+            <GameController size={20} weight="bold" className="text-accent" />
+            Como rodar
+          </h2>
+
+          <div className="mt-4 rounded-card border border-border bg-bg-card p-4">
+            <dl className="grid grid-cols-1 gap-3 sm:grid-cols-2">
+              <div className="flex flex-col">
+                <dt className="font-mono text-[11px] uppercase tracking-wide text-text-muted">
+                  Emulador (Android)
+                </dt>
+                <dd className="mt-0.5 font-display text-base font-semibold text-text-primary">
+                  {meta.emulator}
+                </dd>
+              </div>
+              <div className="flex flex-col">
+                <dt className="font-mono text-[11px] uppercase tracking-wide text-text-muted">
+                  Formato do arquivo
+                </dt>
+                <dd className="mt-0.5 font-mono text-base text-text-primary">
+                  {meta.fileFormat}
+                </dd>
+              </div>
+            </dl>
+
+            <p className="mt-3 border-t border-border pt-3 font-body text-sm leading-relaxed text-text-muted">
+              {meta.setupNote}
+            </p>
+
+            <a
+              href={meta.emulatorUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="mt-3 inline-flex h-10 items-center gap-1.5 rounded-pill border border-accent px-4 font-display text-sm font-semibold text-text-primary active:scale-[0.97]"
+            >
+              Baixar {meta.emulator}
+              <ArrowSquareOut size={15} weight="bold" />
+            </a>
+          </div>
+        </section>
       </main>
     </>
   )
@@ -189,7 +240,25 @@ export function GameDetail() {
 function ScreenshotGrid({ sources, title }: { sources: string[]; title: string }) {
   // remote image URLs occasionally 404 — drop any that fail to load.
   const [broken, setBroken] = useState<string[]>([])
+  // index of the image open in the lightbox, or null when closed
+  const [active, setActive] = useState<number | null>(null)
   const valid = sources.filter((src) => !broken.includes(src))
+
+  useEffect(() => {
+    if (active === null) return
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setActive(null)
+      if (e.key === 'ArrowRight') setActive((i) => (i! + 1) % valid.length)
+      if (e.key === 'ArrowLeft')
+        setActive((i) => (i! - 1 + valid.length) % valid.length)
+    }
+    document.addEventListener('keydown', onKey)
+    document.body.style.overflow = 'hidden'
+    return () => {
+      document.removeEventListener('keydown', onKey)
+      document.body.style.overflow = ''
+    }
+  }, [active, valid.length])
 
   if (valid.length === 0) return null
 
@@ -200,11 +269,11 @@ function ScreenshotGrid({ sources, title }: { sources: string[]; title: string }
       </h2>
       <div className="mt-3 grid grid-cols-2 gap-2.5">
         {valid.map((src, i) => (
-          <a
+          <button
             key={src}
-            href={src}
-            target="_blank"
-            rel="noopener noreferrer"
+            type="button"
+            onClick={() => setActive(i)}
+            aria-label={`Ampliar imagem ${i + 1}`}
             className="overflow-hidden rounded-card border border-border bg-bg-card-hover active:scale-[0.98]"
           >
             <img
@@ -214,10 +283,90 @@ function ScreenshotGrid({ sources, title }: { sources: string[]; title: string }
               onError={() => setBroken((b) => [...b, src])}
               className="aspect-video w-full object-cover"
             />
-          </a>
+          </button>
         ))}
       </div>
+
+      {active !== null && valid[active] && (
+        <Lightbox
+          sources={valid}
+          index={active}
+          title={title}
+          onClose={() => setActive(null)}
+          onNavigate={setActive}
+        />
+      )}
     </section>
+  )
+}
+
+function Lightbox({
+  sources,
+  index,
+  title,
+  onClose,
+  onNavigate,
+}: {
+  sources: string[]
+  index: number
+  title: string
+  onClose: () => void
+  onNavigate: (index: number) => void
+}) {
+  const prev = () => onNavigate((index - 1 + sources.length) % sources.length)
+  const next = () => onNavigate((index + 1) % sources.length)
+
+  return (
+    <div
+      role="dialog"
+      aria-modal="true"
+      aria-label={`${title} — imagem ${index + 1}`}
+      onClick={onClose}
+      className="fixed inset-0 z-50 flex flex-col items-center justify-center bg-bg-primary/95 p-4"
+    >
+      <button
+        type="button"
+        onClick={onClose}
+        aria-label="Fechar"
+        className="absolute right-4 top-4 flex h-11 w-11 items-center justify-center rounded-pill border border-border bg-bg-card text-text-primary active:scale-90"
+      >
+        <X size={20} weight="bold" />
+      </button>
+
+      <img
+        src={sources[index]}
+        alt={`${title} — imagem ${index + 1}`}
+        onClick={(e) => e.stopPropagation()}
+        className="max-h-[80vh] max-w-full rounded-card object-contain"
+      />
+
+      {sources.length > 1 && (
+        <div
+          className="mt-4 flex items-center gap-4"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <button
+            type="button"
+            onClick={prev}
+            aria-label="Imagem anterior"
+            className="flex h-11 w-11 items-center justify-center rounded-pill border border-border bg-bg-card text-text-primary active:scale-90"
+          >
+            <CaretLeft size={20} weight="bold" />
+          </button>
+          <span className="font-mono text-sm tabular-nums text-text-muted">
+            {index + 1} / {sources.length}
+          </span>
+          <button
+            type="button"
+            onClick={next}
+            aria-label="Próxima imagem"
+            className="flex h-11 w-11 items-center justify-center rounded-pill border border-border bg-bg-card text-text-primary active:scale-90"
+          >
+            <CaretRight size={20} weight="bold" />
+          </button>
+        </div>
+      )}
+    </div>
   )
 }
 

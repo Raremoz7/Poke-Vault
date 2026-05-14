@@ -18,7 +18,7 @@ interface Option {
 }
 
 const consoleOptions: Option[] = [
-  { value: 'Todos', label: 'Todos os consoles' },
+  { value: 'Todos', label: 'Todos' },
   ...CONSOLE_ORDER.map((c) => ({
     value: c,
     label: CONSOLE_META[c].short,
@@ -27,7 +27,7 @@ const consoleOptions: Option[] = [
 ]
 
 const typeOptions: Option[] = [
-  { value: 'Todos', label: 'Todos os tipos' },
+  { value: 'Todos', label: 'Todos' },
   ...GAME_TYPES.map((t) => ({ value: t, label: t })),
 ]
 

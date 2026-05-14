@@ -48,6 +48,9 @@ export function GameCard({ game, index }: Props) {
         >
           {meta.short}
         </span>
+        <span className="absolute right-2 top-[26px] z-10 rounded-chip border border-border bg-bg-primary/90 px-1.5 py-0.5 font-mono text-[10px] font-medium uppercase tracking-wide text-text-muted">
+          {meta.emulator}
+        </span>
 
         {cover === 'loading' && (
           <div className="skeleton-pulse absolute inset-0 bg-bg-card-hover" />
