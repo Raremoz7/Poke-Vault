@@ -9,16 +9,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pi4.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Red+Blue"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GB"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Red+Blue"
       }
     ],
     "region": "USA",
@@ -41,16 +41,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pih.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Yellow"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GB"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Yellow"
       }
     ],
     "region": "USA",
@@ -72,16 +72,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pia.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Gold+Silver"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GBC"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Gold+Silver"
       }
     ],
     "region": "USA",
@@ -104,16 +104,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5pil.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Crystal"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GBC"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Crystal"
       }
     ],
     "region": "USA",
@@ -136,16 +136,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhq.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Ruby+Sapphire"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Ruby+Sapphire"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GBA"
       }
     ],
     "region": "USA",
@@ -165,16 +165,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zhr.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Emerald"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Emerald"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GBA"
       }
     ],
     "region": "USA",
@@ -197,16 +197,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1ziq.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+FireRed+LeafGreen"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+FireRed+LeafGreen"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GBA"
       }
     ],
     "region": "USA",
@@ -226,16 +226,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21em.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Mystery+Dungeon+Red+Rescue+Team"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Mystery+Dungeon+Red+Rescue+Team"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=GBA"
       }
     ],
     "region": "USA",
@@ -258,16 +258,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5to9.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Diamond+Pearl"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Diamond+Pearl"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -286,16 +286,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8gvp.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Platinum"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Platinum"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -318,16 +318,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z57.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+HeartGold+SoulSilver"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+HeartGold+SoulSilver"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -348,16 +348,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z1x.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Black+White"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Black+White"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -380,16 +380,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z8d.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Black+2+White+2"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Black+2+White+2"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -412,16 +412,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yzu.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Mystery+Dungeon+Explorers+of+Time+Darkness"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Mystery+Dungeon+Explorers+of+Time+Darkness"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -444,16 +444,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co7ovf.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Mystery+Dungeon+Explorers+of+Sky"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Mystery+Dungeon+Explorers+of+Sky"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -476,16 +476,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jxm.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Conquest"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Conquest"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -508,16 +508,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z5b.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Ranger"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Ranger"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -540,16 +540,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1yzl.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Ranger+Shadows+of+Almia"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Ranger+Shadows+of+Almia"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -572,16 +572,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z1q.jpg",
     "downloads": [
       {
-        "url": "https://archive.org/details/pokemon-gba-roms",
-        "source": "Archive.org"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Ranger+Guardian+Signs"
       },
       {
-        "url": "https://www.pokeharbor.com",
-        "source": "PokéHarbor"
+        "source": "PokéHarbor",
+        "url": "https://www.pokeharbor.com/?s=Pokemon+Ranger+Guardian+Signs"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=DS"
       }
     ],
     "region": "USA",
@@ -604,16 +604,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z8y.jpg",
     "downloads": [
       {
-        "url": "https://cdromance.org",
-        "source": "CDRomance"
+        "source": "CDRomance",
+        "url": "https://cdromance.org/?s=Pokemon+X+Y"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=3DS"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+X+Y"
       }
     ],
     "region": "USA",
@@ -633,16 +633,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6sz3.jpg",
     "downloads": [
       {
-        "url": "https://cdromance.org",
-        "source": "CDRomance"
+        "source": "CDRomance",
+        "url": "https://cdromance.org/?s=Pokemon+Omega+Ruby+Alpha+Sapphire"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=3DS"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Omega+Ruby+Alpha+Sapphire"
       }
     ],
     "region": "USA",
@@ -665,16 +665,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3co7.jpg",
     "downloads": [
       {
-        "url": "https://cdromance.org",
-        "source": "CDRomance"
+        "source": "CDRomance",
+        "url": "https://cdromance.org/?s=Pokemon+Sun+Moon"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=3DS"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Sun+Moon"
       }
     ],
     "region": "USA",
@@ -697,16 +697,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjs.jpg",
     "downloads": [
       {
-        "url": "https://cdromance.org",
-        "source": "CDRomance"
+        "source": "CDRomance",
+        "url": "https://cdromance.org/?s=Pokemon+Ultra+Sun+Ultra+Moon"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=3DS"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Ultra+Sun+Ultra+Moon"
       }
     ],
     "region": "USA",
@@ -729,16 +729,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1z4z.jpg",
     "downloads": [
       {
-        "url": "https://cdromance.org",
-        "source": "CDRomance"
+        "source": "CDRomance",
+        "url": "https://cdromance.org/?s=Mystery+Dungeon+Gates+to+Infinity"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=3DS"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Mystery+Dungeon+Gates+to+Infinity"
       }
     ],
     "region": "USA",
@@ -761,16 +761,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zj4.jpg",
     "downloads": [
       {
-        "url": "https://cdromance.org",
-        "source": "CDRomance"
+        "source": "CDRomance",
+        "url": "https://cdromance.org/?s=Super+Mystery+Dungeon"
       },
       {
-        "url": "https://vimm.net/vault",
-        "source": "Vimm's Lair"
+        "source": "Vimm's Lair",
+        "url": "https://vimm.net/vault/?p=list&system=3DS"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Super+Mystery+Dungeon"
       }
     ],
     "region": "USA",
@@ -793,16 +793,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjy.jpg",
     "downloads": [
       {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Lets+Go+Pikachu+Eevee"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Lets+Go+Pikachu+Eevee"
       },
       {
-        "url": "https://pokebat.net/",
-        "source": "PokéBat"
+        "source": "PokéBat",
+        "url": "https://pokebat.net/?s=Pokemon+Lets+Go+Pikachu+Eevee"
       }
     ],
     "region": "Multi",
@@ -825,16 +825,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk2.jpg",
     "downloads": [
       {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Sword+Shield"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Sword+Shield"
       },
       {
-        "url": "https://pokebat.net/",
-        "source": "PokéBat"
+        "source": "PokéBat",
+        "url": "https://pokebat.net/?s=Pokemon+Sword+Shield"
       }
     ],
     "region": "Multi",
@@ -857,16 +857,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
     "downloads": [
       {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Brilliant+Diamond+Shining+Pearl"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Brilliant+Diamond+Shining+Pearl"
       },
       {
-        "url": "https://pokebat.net/",
-        "source": "PokéBat"
+        "source": "PokéBat",
+        "url": "https://pokebat.net/?s=Pokemon+Brilliant+Diamond+Shining+Pearl"
       }
     ],
     "region": "Multi",
@@ -889,16 +889,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d03.jpg",
     "downloads": [
       {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Legends+Arceus"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Legends+Arceus"
       },
       {
-        "url": "https://pokebat.net/",
-        "source": "PokéBat"
+        "source": "PokéBat",
+        "url": "https://pokebat.net/?s=Pokemon+Legends+Arceus"
       }
     ],
     "region": "Multi",
@@ -921,16 +921,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wzc.jpg",
     "downloads": [
       {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Legends+Z+A"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Legends+Z+A"
       },
       {
-        "url": "https://pokebat.net/",
-        "source": "PokéBat"
+        "source": "PokéBat",
+        "url": "https://pokebat.net/?s=Pokemon+Legends+Z+A"
       }
     ],
     "region": "Multi",
@@ -953,16 +953,16 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfi.jpg",
     "downloads": [
       {
-        "url": "https://sudachi.en.uptodown.com/android",
-        "source": "Uptodown"
+        "source": "Archive.org",
+        "url": "https://archive.org/search?query=Pokemon+Scarlet+Violet"
       },
       {
-        "url": "https://www.romsgames.net/tags/pokemon-roms/",
-        "source": "Roms Games"
+        "source": "Roms Games",
+        "url": "https://www.romsgames.net/?s=Pokemon+Scarlet+Violet"
       },
       {
-        "url": "https://pokebat.net/",
-        "source": "PokéBat"
+        "source": "PokéBat",
+        "url": "https://pokebat.net/?s=Pokemon+Scarlet+Violet"
       }
     ],
     "region": "Multi",
