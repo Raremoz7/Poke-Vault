@@ -27,6 +27,8 @@ export interface Game {
   coverUrl: string
   screenshots?: string[]
   downloads: DownloadSource[]
+  /** fan translations to PT-BR, when available */
+  translations?: DownloadSource[]
   region: Region
 }
 
@@ -40,4 +42,6 @@ export interface RomHack {
   coverUrl: string
   screenshots?: string[]
   downloads: DownloadSource[]
+  /** fan translations to PT-BR, when available */
+  translations?: DownloadSource[]
 }

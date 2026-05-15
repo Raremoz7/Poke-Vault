@@ -19,6 +19,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Red+Blue"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Red+Blue"
       }
     ],
     "region": "USA",
@@ -51,6 +55,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Yellow"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Yellow"
       }
     ],
     "region": "USA",
@@ -82,6 +90,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Gold+Silver"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Gold+Silver"
       }
     ],
     "region": "USA",
@@ -114,6 +126,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Crystal"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Crystal"
       }
     ],
     "region": "USA",
@@ -146,6 +162,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=GBA"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Ruby+Sapphire"
       }
     ],
     "region": "USA",
@@ -175,6 +195,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=GBA"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Emerald"
       }
     ],
     "region": "USA",
@@ -207,6 +231,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=GBA"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+FireRed+LeafGreen"
       }
     ],
     "region": "USA",
@@ -236,6 +264,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=GBA"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Mystery+Dungeon+Red+Rescue+Team"
       }
     ],
     "region": "USA",
@@ -268,6 +300,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Diamond+Pearl"
       }
     ],
     "region": "USA",
@@ -296,6 +332,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Platinum"
       }
     ],
     "region": "USA",
@@ -306,6 +346,12 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ukoiwauxg0aojlmqvxoo.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jgqsjiygx6nc0grkzmp8.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wgxzsqmon8oym3vrvuob.jpg"
+    ],
+    "translations": [
+      {
+        "source": "Elite dos Quatro",
+        "url": "https://e4t.com.br/downloads/pokemon-platina/"
+      }
     ]
   },
   {
@@ -328,6 +374,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+HeartGold+SoulSilver"
       }
     ],
     "region": "USA",
@@ -358,6 +408,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Black+White"
       }
     ],
     "region": "USA",
@@ -368,6 +422,16 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/y7ouszozoswm46tnrxah.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ywn3xvr1b85vyr5nwbha.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/wgtzpbscvb4aqmjtxzi1.jpg"
+    ],
+    "translations": [
+      {
+        "source": "Elite dos Quatro (Black)",
+        "url": "https://e4t.com.br/downloads/pb/pokemon-versao-preta/"
+      },
+      {
+        "source": "Elite dos Quatro (White)",
+        "url": "https://e4t.com.br/downloads/pb/pokemon-versao-branca/"
+      }
     ]
   },
   {
@@ -390,6 +454,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Black+2+White+2"
       }
     ],
     "region": "USA",
@@ -422,6 +490,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Mystery+Dungeon+Explorers+of+Time+Darkness"
       }
     ],
     "region": "USA",
@@ -454,6 +526,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Mystery+Dungeon+Explorers+of+Sky"
       }
     ],
     "region": "USA",
@@ -486,6 +562,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Conquest"
       }
     ],
     "region": "USA",
@@ -518,6 +598,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Ranger"
       }
     ],
     "region": "USA",
@@ -550,6 +634,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Ranger+Shadows+of+Almia"
       }
     ],
     "region": "USA",
@@ -582,6 +670,10 @@
       {
         "source": "Vimm's Lair",
         "url": "https://vimm.net/vault/?p=list&system=DS"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Ranger+Guardian+Signs"
       }
     ],
     "region": "USA",
@@ -614,6 +706,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+X+Y"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+X+Y"
       }
     ],
     "region": "USA",
@@ -621,6 +717,16 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ieqymo6txpycohvgfrbz.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/hkxnbcx1zxgnuwbf7qhv.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar1i1g.jpg"
+    ],
+    "translations": [
+      {
+        "source": "Elite dos Quatro (X)",
+        "url": "https://e4t.com.br/downloads/xy/pokemon-x/"
+      },
+      {
+        "source": "Elite dos Quatro (Y)",
+        "url": "https://e4t.com.br/downloads/xy/pokemon-y/"
+      }
     ]
   },
   {
@@ -643,6 +749,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Omega+Ruby+Alpha+Sapphire"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Omega+Ruby+Alpha+Sapphire"
       }
     ],
     "region": "USA",
@@ -653,6 +763,16 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qdtglpyti24wgmx5djvu.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/chzej5xixk2m2z6hmzs2.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/haecjvf2pnfur20nnofx.jpg"
+    ],
+    "translations": [
+      {
+        "source": "Elite dos Quatro (Omega Ruby)",
+        "url": "https://e4t.com.br/downloads/oras/pokemon-omega-rubi/"
+      },
+      {
+        "source": "Elite dos Quatro (Alpha Sapphire)",
+        "url": "https://e4t.com.br/downloads/oras/pokemon-alfa-safira/"
+      }
     ]
   },
   {
@@ -675,6 +795,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Sun+Moon"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Sun+Moon"
       }
     ],
     "region": "USA",
@@ -707,6 +831,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Pokemon+Ultra+Sun+Ultra+Moon"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Pokemon+Ultra+Sun+Ultra+Moon"
       }
     ],
     "region": "USA",
@@ -739,6 +867,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Mystery+Dungeon+Gates+to+Infinity"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Mystery+Dungeon+Gates+to+Infinity"
       }
     ],
     "region": "USA",
@@ -771,6 +903,10 @@
       {
         "source": "Roms Games",
         "url": "https://www.romsgames.net/?s=Super+Mystery+Dungeon"
+      },
+      {
+        "source": "Romsfun",
+        "url": "https://romsfun.com/?s=Super+Mystery+Dungeon"
       }
     ],
     "region": "USA",
@@ -803,6 +939,10 @@
       {
         "source": "PokéBat",
         "url": "https://pokebat.net/?s=Pokemon+Lets+Go+Pikachu+Eevee"
+      },
+      {
+        "source": "NSWpedia",
+        "url": "https://nswpedia.com/?s=Pokemon+Lets+Go+Pikachu+Eevee"
       }
     ],
     "region": "Multi",
@@ -835,6 +975,10 @@
       {
         "source": "PokéBat",
         "url": "https://pokebat.net/?s=Pokemon+Sword+Shield"
+      },
+      {
+        "source": "NSWpedia",
+        "url": "https://nswpedia.com/?s=Pokemon+Sword+Shield"
       }
     ],
     "region": "Multi",
@@ -867,6 +1011,10 @@
       {
         "source": "PokéBat",
         "url": "https://pokebat.net/?s=Pokemon+Brilliant+Diamond+Shining+Pearl"
+      },
+      {
+        "source": "NSWpedia",
+        "url": "https://nswpedia.com/?s=Pokemon+Brilliant+Diamond+Shining+Pearl"
       }
     ],
     "region": "Multi",
@@ -899,6 +1047,10 @@
       {
         "source": "PokéBat",
         "url": "https://pokebat.net/?s=Pokemon+Legends+Arceus"
+      },
+      {
+        "source": "NSWpedia",
+        "url": "https://nswpedia.com/?s=Pokemon+Legends+Arceus"
       }
     ],
     "region": "Multi",
@@ -931,6 +1083,10 @@
       {
         "source": "PokéBat",
         "url": "https://pokebat.net/?s=Pokemon+Legends+Z+A"
+      },
+      {
+        "source": "NSWpedia",
+        "url": "https://nswpedia.com/?s=Pokemon+Legends+Z+A"
       }
     ],
     "region": "Multi",
@@ -963,6 +1119,10 @@
       {
         "source": "PokéBat",
         "url": "https://pokebat.net/?s=Pokemon+Scarlet+Violet"
+      },
+      {
+        "source": "NSWpedia",
+        "url": "https://nswpedia.com/?s=Pokemon+Scarlet+Violet"
       }
     ],
     "region": "Multi",
