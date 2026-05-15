@@ -173,6 +173,16 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/dwvw0inff1ds40imnalf.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ga9tepkhebpqvx4jude9.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21yg.jpg"
+    ],
+    "translations": [
+      {
+        "source": "PokéBat (Ruby)",
+        "url": "https://pokebat.net/2017/04/pokemon-ruby-pt-br.html"
+      },
+      {
+        "source": "PokéBat (Sapphire)",
+        "url": "https://pokebat.net/2017/04/projeto-traducao-pokemon-sapphire-pt-br.html"
+      }
     ]
   },
   {
@@ -209,6 +219,12 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/bafm66dp5k0lutvvzali.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/c77bodnkwu73gs2jwhw4.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ar21y7.jpg"
+    ],
+    "translations": [
+      {
+        "source": "PokéBat",
+        "url": "https://pokebat.net/2017/04/pokemon-emerald-portugues-pt-brgba.html"
+      }
     ]
   },
   {
@@ -242,6 +258,12 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/qsxdlfhke4g5tr7dpwur.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zy2diilz2prc6ridynml.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mjzthdvgstynlgqmqggd.jpg"
+    ],
+    "translations": [
+      {
+        "source": "PokéBat",
+        "url": "https://pokebat.net/2026/05/gba-pokemon-firered-leafgreen-traducao-portugues-pt-br-2026-sem-bugs.html"
+      }
     ]
   },
   {
@@ -310,6 +332,16 @@
     "screenshots": [
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sccf71.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/sccf72.jpg"
+    ],
+    "translations": [
+      {
+        "source": "PokéBat (Diamond)",
+        "url": "https://pokebat.net/2017/04/pokemon-diamond-pt-br-nds-completo-2.html"
+      },
+      {
+        "source": "PokéBat (Pearl)",
+        "url": "https://pokebat.net/2017/04/pokemon-pearl-portugues-100-pt-br-nds-completo.html"
+      }
     ]
   },
   {
@@ -351,6 +383,10 @@
       {
         "source": "Elite dos Quatro",
         "url": "https://e4t.com.br/downloads/pokemon-platina/"
+      },
+      {
+        "source": "PokéBat",
+        "url": "https://pokebat.net/2021/03/pokemon-platinum-100-traduzido-portugues-pt-br-2021.html"
       }
     ]
   },
@@ -386,6 +422,16 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/vnt6pnmut2umlckaexnu.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/ldggejpm4duw76tvgeh4.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zqlxls8gei33a9jl9mqx.jpg"
+    ],
+    "translations": [
+      {
+        "source": "PokéBat (HeartGold)",
+        "url": "https://pokebat.net/2017/04/pokemon-heart-gold-pt-br-nds-download.html"
+      },
+      {
+        "source": "PokéBat (SoulSilver)",
+        "url": "https://pokebat.net/2017/04/pokemon-soul-silver-pt-br.html"
+      }
     ]
   },
   {
@@ -431,6 +477,10 @@
       {
         "source": "Elite dos Quatro (White)",
         "url": "https://e4t.com.br/downloads/pb/pokemon-versao-branca/"
+      },
+      {
+        "source": "PokéBat",
+        "url": "https://pokebat.net/2023/01/pokemon-black-white-portugues-pt-br-traducao.html"
       }
     ]
   },
@@ -468,6 +518,16 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/pftffrkyqmzd2vxdsjw6.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/th7gubhvtxjekogohjhw.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/jlo7pgeueajlusrum4ge.jpg"
+    ],
+    "translations": [
+      {
+        "source": "PokéBat (Black 2)",
+        "url": "https://pokebat.net/2017/04/pokemon-black-2-pt-br-nds.html"
+      },
+      {
+        "source": "PokéBat (White 2)",
+        "url": "https://pokebat.net/2017/04/pokemon-white-2-portugues-br.html"
+      }
     ]
   },
   {
@@ -797,6 +857,12 @@
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mpfu9qhfucatglrgrkxp.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/mohyswiw0zv1x1pto8wo.jpg",
       "https://images.igdb.com/igdb/image/upload/t_screenshot_huge/zgdvov6r2oczbqtwrnty.jpg"
+    ],
+    "translations": [
+      {
+        "source": "Pokémon SUNMOON BR (GitHub)",
+        "url": "https://github.com/Hootek/Pokemon-SUNMOON-BR"
+      }
     ]
   },
   {

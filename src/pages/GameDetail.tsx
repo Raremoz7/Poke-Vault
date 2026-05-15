@@ -196,44 +196,52 @@ export function GameDetail() {
           </ul>
         </section>
 
-        {/* PT-BR translations — only when the game has fan translations */}
-        {game.translations && game.translations.length > 0 && (
-          <section className="mt-8">
-            <h2 className="flex items-center gap-2 font-display text-lg font-semibold text-text-primary">
-              <Translate size={20} weight="bold" className="text-accent" />
-              Traduções PT-BR
-            </h2>
-            <p className="mt-1 font-body text-sm text-text-muted">
-              Patches de tradução feitos por fãs. Aplique sobre a ROM original.
-            </p>
+        {/* PT-BR translations — always shown, with an empty state when none found */}
+        <section className="mt-8">
+          <h2 className="flex items-center gap-2 font-display text-lg font-semibold text-text-primary">
+            <Translate size={20} weight="bold" className="text-accent" />
+            Traduções PT-BR
+          </h2>
 
-            <ul className="mt-4 flex flex-col gap-2.5">
-              {game.translations.map((t) => (
-                <li key={t.source}>
-                  <a
-                    href={t.url}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center justify-between gap-3 rounded-card border border-border bg-bg-card px-4 py-3.5 transition-colors active:scale-[0.99]"
-                  >
-                    <div className="flex flex-col">
-                      <span className="font-display text-base font-semibold text-text-primary">
-                        {t.source}
+          {game.translations && game.translations.length > 0 ? (
+            <>
+              <p className="mt-1 font-body text-sm text-text-muted">
+                Patches de tradução feitos por fãs. Aplique sobre a ROM original.
+              </p>
+              <ul className="mt-4 flex flex-col gap-2.5">
+                {game.translations.map((t) => (
+                  <li key={t.source}>
+                    <a
+                      href={t.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center justify-between gap-3 rounded-card border border-border bg-bg-card px-4 py-3.5 transition-colors active:scale-[0.99]"
+                    >
+                      <div className="flex flex-col">
+                        <span className="font-display text-base font-semibold text-text-primary">
+                          {t.source}
+                        </span>
+                        <span className="font-mono text-[11px] text-text-muted">
+                          Tradução PT-BR
+                        </span>
+                      </div>
+                      <span className="flex h-10 items-center gap-1.5 rounded-pill bg-accent px-4 font-display text-sm font-semibold text-text-primary">
+                        Abrir
+                        <ArrowSquareOut size={15} weight="bold" />
                       </span>
-                      <span className="font-mono text-[11px] text-text-muted">
-                        Tradução PT-BR
-                      </span>
-                    </div>
-                    <span className="flex h-10 items-center gap-1.5 rounded-pill bg-accent px-4 font-display text-sm font-semibold text-text-primary">
-                      Abrir
-                      <ArrowSquareOut size={15} weight="bold" />
-                    </span>
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </section>
-        )}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </>
+          ) : (
+            <div className="mt-3 rounded-card border border-dashed border-border bg-bg-card px-4 py-5 text-center">
+              <p className="font-body text-sm text-text-muted">
+                Nenhuma tradução PT-BR encontrada para este jogo ainda.
+              </p>
+            </div>
+          )}
+        </section>
 
         {/* how to run */}
         <section className="mt-8">
