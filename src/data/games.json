@@ -971,6 +971,10 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zjy.jpg",
     "downloads": [
       {
+        "source": "Switch-ROMs",
+        "url": "https://switch-roms.org/pokemon-lets-go-pikachu-nsp-rom/"
+      },
+      {
         "source": "Archive.org",
         "url": "https://archive.org/search?query=Pokemon+Lets+Go+Pikachu+Eevee"
       },
@@ -1002,6 +1006,14 @@
     "type": "Principal",
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1zk2.jpg",
     "downloads": [
+      {
+        "source": "Switch-ROMs (Sword)",
+        "url": "https://switch-roms.org/pokemon-sword-nsp-rom-7/"
+      },
+      {
+        "source": "Switch-ROMs (Shield)",
+        "url": "https://switch-roms.org/pokemon-shield-nsp-rom/"
+      },
       {
         "source": "Archive.org",
         "url": "https://archive.org/search?query=Pokemon+Sword+Shield"
@@ -1035,6 +1047,14 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3b9t.jpg",
     "downloads": [
       {
+        "source": "Switch-ROMs (Brilliant Diamond)",
+        "url": "https://switch-roms.org/pokemon-brilliant-diamond-nsp-rom/"
+      },
+      {
+        "source": "Switch-ROMs (Shining Pearl)",
+        "url": "https://switch-roms.org/pokemon-shining-pearl-nsp-rom/"
+      },
+      {
         "source": "Archive.org",
         "url": "https://archive.org/search?query=Pokemon+Brilliant+Diamond+Shining+Pearl"
       },
@@ -1066,6 +1086,10 @@
     "type": "Spin-off",
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3d03.jpg",
     "downloads": [
+      {
+        "source": "Switch-ROMs",
+        "url": "https://switch-roms.org/pokemon-legends-arceus-nsp-rom-8/"
+      },
       {
         "source": "Archive.org",
         "url": "https://archive.org/search?query=Pokemon+Legends+Arceus"
@@ -1099,6 +1123,10 @@
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9wzc.jpg",
     "downloads": [
       {
+        "source": "Switch-ROMs",
+        "url": "https://switch-roms.org/pokemon-legends-z-a-nsp-rom-7/"
+      },
+      {
         "source": "Archive.org",
         "url": "https://archive.org/search?query=Pokemon+Legends+Z+A"
       },
@@ -1130,6 +1158,14 @@
     "type": "Principal",
     "coverUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5sfi.jpg",
     "downloads": [
+      {
+        "source": "Switch-ROMs (Scarlet)",
+        "url": "https://switch-roms.org/pokemon-scarlet-nsp-rom-17/"
+      },
+      {
+        "source": "Switch-ROMs (Violet)",
+        "url": "https://switch-roms.org/pokemon-violet-nsp-rom-15/"
+      },
       {
         "source": "Archive.org",
         "url": "https://archive.org/search?query=Pokemon+Scarlet+Violet"
